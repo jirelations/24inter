@@ -1,8 +1,14 @@
 # Site Build Settings
 
 # jekyll-paginate configuration
-paginate:            50
-
+paginate:
+            50
+# Collections for podcast and RSS feeds
+collections:
+  podcasts:
+    output: true
+    permalink: /:collection/:title
+    
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
