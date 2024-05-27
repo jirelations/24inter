@@ -6,9 +6,9 @@ permalink: /podcast/
 <div class="post-content">
 <h1>{{ page.title }}</h1>
 
-To subscribe to this podcast, go to your podcast player and choose "Subscribe with URL" (or similar). Then paste this URL there: {{ site.url }}{{ site.baseurl }}/podcast.xml
+<p>To subscribe to this podcast, go to your podcast player and choose "Subscribe with URL" (or similar). Then paste this URL there: {{ site.url }}{{ site.baseurl }}/podcast.xml</p>
 
-To create your podcast episode for the course, <a href="#podcast-checklist">jump to the Podcast Checklist below</a>.
+<p>To create your podcast episode for the course, <a href="#podcast-checklist">jump to the Podcast Checklist below</a>.</p>
 
 {% for entry in site.podcasts %}
   <article>
