@@ -300,7 +300,7 @@ references:
   title: 'Diaspora: Generation and the Ground of Jewish Identity'
   title-short: Diaspora
   type: article-journal
-  URL: https://www.journals.uchicago.edu/doi/abs/10.1086/448694
+  URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/1343903
   volume: '19'
 
 - id: braakIntroductionTopicalIssue2017a
@@ -2575,6 +2575,56 @@ references:
   URL: https://academic.oup.com/socrel/article-lookup/doi/10.2307/4153097
   volume: '66'
 
+- id: perryExaminingImpactReligious2019
+  abstract: >-
+    Early religion scholars stressed the importance of institutionalized “rites
+    of passage” to integrate and reinvigorate groups themselves. Surprisingly,
+    little work, however, has explored the efﬁcacy of such rites for the
+    religious lives of individuals. Although research has examined the
+    transformative role of semi-institutionalized rites like shortterm mission
+    trips and pilgrimages, we shift the focus to consider the potential inﬂuence
+    of more fundamental initiation rites such as baptism, ﬁrst communion, and
+    bar/bat mitzvahs. Utilizing surveys 1 and 4 of the National Study of Youth
+    and Religion and focusing on overall religiosity and disafﬁliation as the
+    outcomes, we examine whether experiencing a religious rite of passage during
+    or before one’s teenage years predicts the religious outcomes of young
+    adults. We ﬁnd no difference in religiosity over time between persons who
+    experienced a religious rite passage and those who did not. However, those
+    who underwent a religious rite of passage were 30 percent less likely to
+    disafﬁliate between data collection points. Tests for interactions show that
+    the inﬂuence of such initiation rites does not vary across religious
+    traditions. Findings suggest the experience of baptism, bar/bat mitzvah,
+    conﬁrmation, or other rites of passage matter primarily as durable markers
+    of social identity, binding adherents to their faith community, if only
+    nominally.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 10
+  author:
+    - family: Perry
+      given: Samuel L.
+    - family: Longest
+      given: Kyle C.
+  citation-key: perryExaminingImpactReligious2019
+  container-title: Journal for the Scientific Study of Religion
+  container-title-short: Scientific Study of Religion
+  DOI: 10.1111/jssr.12632
+  ISSN: 0021-8294, 1468-5906
+  issue: '4'
+  issued:
+    - year: 2019
+      month: 12
+  language: en
+  page: 891-904
+  source: DOI.org (Crossref)
+  title: >-
+    Examining the Impact of Religious Initiation Rites on Religiosity and
+    Disaffiliation over Time
+  type: article-journal
+  URL: https://ubffm.hds.hebis.de/EdsRecord/edb%2C140371126/PDF
+  volume: '58'
+
 - id: pewresearchcenterBeingChristianWestern2018
   abstract: >-
     The majority of Europe’s Christians are non-practicing, but they differ from
@@ -3120,6 +3170,79 @@ references:
   type: chapter
   URL: >-
     http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195338522.001.0001/oxfordhb-9780195338522-e-018
+
+- id: shohamConceptualAnthropologicalHistory2018
+  abstract: >-
+    ABSTARCT This article aims to form a conversation between conceptual history
+    and anthropological history, taking bat mitzvah, the coming-of-age ceremony
+    for Jewish girls, as a test case. The term is shown to have two main
+    conceptual meanings: first, the new religious status that a Jewish girl
+    acquires—that of an adult obligated by the precepts of Jewish law—and
+    second, the event or ritual marking this milestone. The close examination of
+    the concept’s various meanings in different Jewish languages tracks its
+    development from its hesitant beginnings in the nineteenth century to its
+    emergence as a key concept that refers to a central ceremony in the Jewish
+    world of the twentieth century. From that point, the article follows the two
+    lexical paths that bat mitzvah has traveled, in the United States and in
+    Israel, and highlights a basic anthropological difference in the ceremony’s
+    social function.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 10
+  author:
+    - family: Shoham
+      given: Hizky
+  citation-key: shohamConceptualAnthropologicalHistory2018
+  container-title: Contributions to the History of Concepts
+  DOI: 10.3167/choc.2018.130205
+  ISSN: 1807-9326, 1874-656X
+  issue: '2'
+  issued:
+    - year: 2018
+      month: 12
+      day: 1
+  language: en_US
+  page: 100-122
+  publisher: Berghahn Journals
+  section: Contributions to the History of Concepts
+  source: www.berghahnjournals.com
+  title: >-
+    The Conceptual and Anthropological History of Bat Mitzvah: Two Lexical Paths
+    and Two Jewish Identities
+  title-short: The Conceptual and Anthropological History of Bat Mitzvah
+  type: article-journal
+  URL: >-
+    https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/20609269764/CourseNode/93668888136198/09-Shoham+-+2018+-+The+Conceptual+and+Anthropological+History+of+Bat+.pdf
+  volume: '13'
+
+- id: shohamHeHadCeremony2016
+  accessed:
+    - year: 2024
+      month: 6
+      day: 10
+  author:
+    - family: Shoham
+      given: Hizky
+  citation-key: shohamHeHadCeremony2016
+  container-title: Modern Judaism
+  container-title-short: Modern Judaism
+  DOI: 10.1093/mj/kjw015
+  ISSN: 0276-1114, 1086-3273
+  issue: '3'
+  issued:
+    - year: 2016
+      month: 10
+  language: en
+  page: 335-356
+  source: DOI.org (Crossref)
+  title: >-
+    “He had a Ceremony—I had a Party”: Bar Mitzvah Ceremonies vs. Bat Mitzvah
+    Parties in Israeli Culture
+  title-short: “He had a Ceremony—I had a Party”
+  type: article-journal
+  URL: https://muse-jhu-edu.proxy.ub.uni-frankfurt.de/pub/8/article/631356/pdf
+  volume: '36'
 
 - id: simonsohnCommunalMembershipReligious2016b
   accessed:
