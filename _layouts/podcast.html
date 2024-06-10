@@ -11,7 +11,9 @@ title: Podcast
   {% endif %}
   <p>{{ page.description }}</p>
   {{ content }}
-  {% include audio.html %}
+  {% if page.mp3 %}
+    {% include audio.html %}
+  {% endif %}
 </div>
 
 <footer class="post-footer">

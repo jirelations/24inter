@@ -17,7 +17,9 @@ permalink: /podcast/
       {% if entry.image %}
         {% include featured-image.html image=entry.image %}
       {% endif %}
-      {% include audio.html mp3=entry.mp3 %}
+      {% if entry.mp3 %}
+        {% include audio.html mp3=entry.mp3 %}
+      {% endif %}
   </article>
 {% endfor %}
 

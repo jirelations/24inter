@@ -144,6 +144,41 @@ references:
   title-short: Glaube in Migration
   type: book
 
+- id: beckerMuslimNetworksPublic2024
+  abstract: >-
+    9 Muslim Networks, Public Services and Development Intervention in
+    Post-socialist Tanzania: Between Liberalisation and Alienation was published
+    in Governance and Islam in East Africa on page 199.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  author:
+    - family: Becker
+      given: Felicitas
+  citation-key: beckerMuslimNetworksPublic2024
+  container-title: >-
+    9 Muslim Networks, Public Services and Development Intervention in
+    Post-socialist Tanzania: Between Liberalisation and Alienation
+  DOI: 10.1515/9781474482998-012
+  ISBN: 978-1-4744-8299-8
+  issued:
+    - year: 2024
+      month: 5
+      day: 29
+  language: en
+  page: 199-219
+  publisher: Edinburgh University Press
+  source: www-degruyter-com.proxy.ub.uni-frankfurt.de
+  title: >-
+    9 Muslim Networks, Public Services and Development Intervention in
+    Post-socialist Tanzania: Between Liberalisation and Alienation
+  title-short: >-
+    9 Muslim Networks, Public Services and Development Intervention in
+    Post-socialist Tanzania
+  type: chapter
+  URL: https://www.degruyter.com/document/doi/10.1515/9781474482998-012/html
+
 - id: beckerWaysThatNever2003c
   author:
     - family: Becker
@@ -301,6 +336,98 @@ references:
   URL: https://www.degruyter.com/document/doi/10.1515/opth-2017-0051/html
   volume: '3'
 
+- id: broszinsky-schwabeBegegnungenRaumUnd2011
+  abstract: >-
+    Begegnung und Kommunikation finden immer in einem vorgefundenen Raum statt,
+    der damit selbst Teil der Kommunikation wird. In Hinblick auf
+    interkulturelle Begegnungen möchte ich einige Aspekte des Raumverhaltens
+    hervorheben: Wie viel Raum Menschen zwischen sich lassen, wenn sie
+    kommunizieren; wie sie sich im Raum bewegen, wie sie den Raum für ihre
+    Vorstellungen gestalten und welche Rolle der private und der öffentliche
+    Raum in ihrer Kultur spielen.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  author:
+    - family: Broszinsky-Schwabe
+      given: Edith
+  citation-key: broszinsky-schwabeBegegnungenRaumUnd2011
+  container-title: 'Interkulturelle Kommunikation: Missverständnisse – Verständigung'
+  DOI: 10.1007/978-3-531-92764-0_7
+  editor:
+    - family: Broszinsky-Schwabe
+      given: Edith
+  event-place: Wiesbaden
+  ISBN: 978-3-531-92764-0
+  issued:
+    - year: 2011
+  language: de
+  page: 141-160
+  publisher: VS Verlag für Sozialwissenschaften
+  publisher-place: Wiesbaden
+  source: Springer Link
+  title: Begegnungen in Raum und Zeit
+  type: chapter
+  URL: >-
+    https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-531-92764-0_7
+
+- id: broszinsky-schwabeInterkulturelleKommunikation2011
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  author:
+    - family: Broszinsky-Schwabe
+      given: Edith
+  citation-key: broszinsky-schwabeInterkulturelleKommunikation2011
+  DOI: 10.1007/978-3-531-92764-0
+  event-place: Wiesbaden
+  ISBN: 978-3-531-17174-6 978-3-531-92764-0
+  issued:
+    - year: 2011
+  language: de
+  license: http://www.springer.com/tdm
+  publisher: VS Verlag für Sozialwissenschaften
+  publisher-place: Wiesbaden
+  source: DOI.org (Crossref)
+  title: Interkulturelle Kommunikation
+  type: book
+  URL: >-
+    https://link-springer-com.proxy.ub.uni-frankfurt.de/book/10.1007/978-3-531-92764-0
+
+- id: broszinsky-schwabeVerbesserungInterkulturellerHandlungskompetenz2011
+  abstract: >-
+    Am Beispiel eines interkulturellen Missverständnisses in Indien möchte ich
+    verdeutlichen, welche Aspekte der Kultur in der Zusammenarbeit wechselseitig
+    als fremd empfunden wurden.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  author:
+    - family: Broszinsky-Schwabe
+      given: Edith
+  citation-key: broszinsky-schwabeVerbesserungInterkulturellerHandlungskompetenz2011
+  container-title: 'Interkulturelle Kommunikation: Missverständnisse – Verständigung'
+  DOI: 10.1007/978-3-531-92764-0_11
+  editor:
+    - family: Broszinsky-Schwabe
+      given: Edith
+  event-place: Wiesbaden
+  ISBN: 978-3-531-92764-0
+  issued:
+    - year: 2011
+  language: de
+  page: 215-237
+  publisher: VS Verlag für Sozialwissenschaften
+  publisher-place: Wiesbaden
+  source: Springer Link
+  title: Verbesserung interkultureller Handlungskompetenz
+  type: chapter
+  URL: >-
+    https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-531-92764-0_11
+
 - id: bruceMultipleReligiousBelonging2017a
   abstract: >-
     This paper critically examines the notion of ‘multiple religious belonging’
@@ -417,6 +544,54 @@ references:
   type: webpage
   URL: https://in.bgu.ac.il/en/csoc/Pages/Conversion-Database.aspx
 
+- id: ciftciGlobalizationContactReligious2016
+  abstract: |-
+    Objectives
+                  This article examines cross‐national variation in interreligious favorability across the globe. We develop and test several hypotheses linking globalization to attitudes toward the religious other through mechanisms of religious belonging and contact.
+                
+                
+                  Methods
+                  Utilizing cross‐national data in 20 countries from the Pew Global Attitudes Surveys (2011), we run a series of multilevel and logistic regression estimations to test our hypotheses about global contact, religious identity, and interreligious favorability.
+                
+                
+                  Results
+                  We find that global contact has a positive effect on interreligious favorability, whereas holding religious identity increases negative sentiments toward religious outgroups. We also find that increased levels of globalization inhibit the negative impact of religious belonging and threat perceptions on favorable views of the religious other.
+                
+                
+                  Conclusion
+                  Although globalization increases the salience of religion as an exclusive identity category at the expense of decreased interreligious favorability, individuals become more conducive to interreligious tolerance thanks to frequent social contact at higher levels of globalization.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  author:
+    - family: Ciftci
+      given: Sabri
+    - family: Nawaz
+      given: Muhammad Asif
+    - family: Sydiq
+      given: Tareq
+  citation-key: ciftciGlobalizationContactReligious2016
+  container-title: Social Science Quarterly
+  container-title-short: Social Science Quarterly
+  DOI: 10.1111/ssqu.12221
+  ISSN: 0038-4941, 1540-6237
+  issue: '2'
+  issued:
+    - year: 2016
+      month: 6
+  language: en
+  license: http://onlinelibrary.wiley.com/termsAndConditions#vor
+  page: 271-292
+  source: DOI.org (Crossref)
+  title: >-
+    Globalization, Contact, and Religious Identity: A Cross‐National Analysis of
+    Interreligious Favorability*
+  title-short: Globalization, Contact, and Religious Identity
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12221
+  volume: '97'
+
 - id: ciocanCrosscultureReligiousRealm2022
   author:
     - family: CIOCAN
@@ -464,6 +639,21 @@ references:
   title: Course | Reading Religious Conversion | edX
   type: webpage
   URL: https://learning.edx.org/course/course-v1:IsraelX+CONVERT+3T2020/home
+
+- id: darquennesHandbucherZurSprach
+  citation-key: darquennesHandbucherZurSprach
+  collection-editor:
+    - family: Darquennes
+      given: Jeroen
+    - family: Epps
+      given: Patience
+  ISSN: 1861-5090
+  title: >-
+    Handbücher zur Sprach- und Kommunikationswissenschaft / Handbooks of
+    Linguistics and Communication Science [HSK] [series]
+  type: book
+  URL: >-
+    https://www-degruyter-com.proxy.ub.uni-frankfurt.de/serial/hsk-b/html#volumes
 
 - id: daySocialIdentitiesSacred2013b
   call-number: >-
@@ -574,6 +764,165 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/2803307
   volume: '24'
+
+- id: dellerAnwendungsfelder2007
+  abstract: >-
+    Bis heute haben sich wirtschaftliche und kulturelle Austauschbeziehungen —
+    die bereits im Alten Ägypten dokumentiert wurden — zwischen Völkern
+    kontinuierlich ausgeweitet. Über diese ›natürliche‹ Entwicklung hinaus
+    konnten im letzten Jahrhundert und besonders in den letzten Jahrzehnten
+    einige weitere Faktoren wesentlich zu einer zunehmenden Beschleunigung der
+    Globalisierung (4.1) beitragen. Organisationen nutzten diese
+    Rahmenbedingungen zur Steigerung effektiven Handelns und zur Sicherung von
+    Wettbewerbsvorteilen (Weber/Festing/Dowling/Schuler 2001). Dies drückt sich
+    vor allem in der Zunahme internationaler Technologieverträge,
+    Direktinvestitionen und im internationalen Handel aus (ebd.).
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  author:
+    - family: Deller
+      given: Jürgen
+    - family: Kusch
+      given: René Immanuel
+    - family: Podsiadlowski
+      given: Astrid
+    - family: Dathe
+      given: Marion
+    - family: Schugk
+      given: Michael
+    - family: Rothkegel
+      given: Annely
+    - family: Weidemann
+      given: Arne
+    - family: Kokemohr
+      given: Rainer
+    - family: Gabriel
+      given: Kokebe Haile
+    - family: Bauer
+      given: Gerd Ulrich
+    - family: Straub
+      given: Jürgen
+    - family: Arnold
+      given: Maik
+    - family: Thomas
+      given: Alexander
+    - family: Weidemann
+      given: Doris
+    - family: Billmann-Mahecha
+      given: Elfriede
+    - family: Kölbl
+      given: Carlos
+    - family: Porila
+      given: Astrid
+    - family: Thije
+      given: Jan D.
+      non-dropping-particle: ten
+    - family: Büchler
+      given: Andrea
+    - family: Kammhuber
+      given: Stefan
+    - family: Straub
+      given: Jürgen
+    - family: Zielke
+      given: Barbara
+    - family: Nauck
+      given: Bernhard
+  citation-key: dellerAnwendungsfelder2007
+  container-title: >-
+    Handbuch interkulturelle Kommunikation und Kompetenz: Grundbegriffe —
+    Theorien — Anwendungsfelder
+  DOI: 10.1007/978-3-476-05019-9_6
+  editor:
+    - family: Straub
+      given: Jürgen
+    - family: Weidemann
+      given: Arne
+    - family: Weidemann
+      given: Doris
+  event-place: Stuttgart
+  ISBN: 978-3-476-05019-9
+  issued:
+    - year: 2007
+  language: de
+  page: 563-737
+  publisher: J.B. Metzler
+  publisher-place: Stuttgart
+  source: Springer Link
+  title: Anwendungsfelder
+  type: chapter
+  URL: >-
+    https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-476-05019-9_6
+
+- id: dellerVerfahrenUndAnsaetze2007
+  abstract: >-
+    In einem fortschreitenden Prozess führt die zunehmende Liberalisierung des
+    Welthandels und internationale Ausrichtung einzelner Organisationen sowie
+    die weltweite Vernetzung der Gesellschaften dazu, dass immer mehr Menschen
+    für unterschiedliche Dauer im Ausland leben oder im Inland mit Personen
+    anderer Nationalität Kontakt haben. Aufgrund dieser Entwicklung wird die
+    Fähigkeit, mit der Andersartigkeit verschiedener Kulturen umzugehen, in
+    Gesellschaft und Organisationen immer wichtiger.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  author:
+    - family: Deller
+      given: Jürgen
+    - family: Albrecht
+      given: Anne-Grit
+    - family: Bolten
+      given: Jürgen
+    - family: Helmolt
+      given: Katharina
+      non-dropping-particle: von
+    - family: Leenen
+      given: Rainer
+    - family: Barmeyer
+      given: Christoph I.
+    - family: Haupt
+      given: Ulrike
+    - family: Montau
+      given: Robert
+    - family: Rathje
+      given: Stefanie
+    - family: Grothe
+      given: Jana
+    - family: Fischer
+      given: Cornelia
+    - family: Weidemann
+      given: Doris
+    - family: Weidemann
+      given: Arne
+    - family: Straub
+      given: Jürgen
+  citation-key: dellerVerfahrenUndAnsaetze2007
+  container-title: >-
+    Handbuch interkulturelle Kommunikation und Kompetenz: Grundbegriffe —
+    Theorien — Anwendungsfelder
+  DOI: 10.1007/978-3-476-05019-9_7
+  editor:
+    - family: Straub
+      given: Jürgen
+    - family: Weidemann
+      given: Arne
+    - family: Weidemann
+      given: Doris
+  event-place: Stuttgart
+  ISBN: 978-3-476-05019-9
+  issued:
+    - year: 2007
+  language: de
+  page: 739-825
+  publisher: J.B. Metzler
+  publisher-place: Stuttgart
+  source: Springer Link
+  title: Verfahren und Ansätze zur Förderung interkultureller Kompetenz
+  type: chapter
+  URL: >-
+    https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-476-05019-9_7
 
 - id: desmanglesFacesGodsVodou2000b
   abstract: >-
@@ -815,6 +1164,26 @@ references:
   URL: http://www.tandfonline.com/doi/full/10.1080/00963402.1966.11454918
   volume: '22'
 
+- id: gilesHandbookIntergroupCommunication2012
+  call-number: HM716 .H36 2012
+  citation-key: gilesHandbookIntergroupCommunication2012
+  collection-title: ICA handbook series
+  editor:
+    - family: Giles
+      given: Howard
+    - family: Gallois
+      given: Cynthia
+  event-place: New York, NY
+  ISBN: 978-0-415-88964-3 978-0-415-88965-0 978-0-203-14862-4
+  issued:
+    - year: 2012
+  number-of-pages: '410'
+  publisher: Routledge
+  publisher-place: New York, NY
+  source: Library of Congress ISBN
+  title: The handbook of intergroup communication
+  type: book
+
 - id: grungInterreligiousDialogueSqueeze2017b
   author:
     - family: Grung
@@ -830,6 +1199,59 @@ references:
     Interreligious Dialogue in the Squeeze between Diplomacy and Contextual
     Practices
   type: article-journal
+
+- id: gudykunstBridgingDifferencesEffective2003
+  abstract: >-
+    The Fourth Edition of Bridging Differences: Effective Intergroup
+    Communication builds on the strengths of the previous editions and provides
+    state-of-the-art knowledge about intergroup communication. This new edition
+    brings a strong skills-oriented approach to improving communication
+    effectiveness between people from different groups (e.g., cultures, ethnic
+    groups, social classes). Bridging Differences is based on the assumption
+    that the processes operating when we communicate with people from other
+    groups are the same processes operating when we communicate with people from
+    our own groups. Author William B. Gudykunst has written this book from the
+    perspective of "communicating with strangers" and addresses how factors
+    related to our group memberships (e.g., inaccurate and unfavorable
+    stereotypes of members of other cultures and ethnic groups) can cause us to
+    misinterpret the messages we receive from members of those groups. New to
+    the Fourth Edition: Expanded discussions of several topics such as changing
+    intergroup expectations; cultural differences in attribution processes;
+    cultural and ethnic differences in conflict; cultural differences in
+    indirect messages; cultural differences in uncertainty management; empathy;
+    ethnic and cultural identities; face and its relationship to conflict
+    management; intergroup communication effectiveness; intergroup conflict;
+    intergroup biases; negotiating means; perceptual processes; and prejudice
+    New material has been added on civic engagement; community in public life;
+    diversity and community; the content of stereotypes; communication in
+    romantic relationships; cultural differences in effective communication; and
+    theoretical explanations for prejudice Pedagogical features include
+    end-of-chapter study questions, self-assessment questionnaires, open-ended
+    questions to stimulate readers to think about their implicit theories, and
+    written skill exercises to increase students′ skill development Designed for
+    students taking courses in Intercultural Communication or Intergroup
+    Communication, Bridging Differences is also useful for many courses in
+    Cultural Studies, Anthropology, Sociology, and Management.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  author:
+    - family: Gudykunst
+      given: William B.
+  citation-key: gudykunstBridgingDifferencesEffective2003
+  event-place: Thousand Oaks, UNITED STATES
+  ISBN: 978-1-4522-6299-4
+  issued:
+    - year: 2003
+  publisher: SAGE Publications, Incorporated
+  publisher-place: Thousand Oaks, UNITED STATES
+  source: ProQuest Ebook Central
+  title: 'Bridging Differences: Effective Intergroup Communication'
+  title-short: Bridging Differences
+  type: book
+  URL: >-
+    http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D996632
 
 - id: guhinColorblindIslamRacial2018
   abstract: Jeffrey Guhin
@@ -859,6 +1281,22 @@ references:
   type: article-journal
   URL: https://www.cogitatiopress.com/socialinclusion/article/view/1422
   volume: '6'
+
+- id: gumperzDiscourseStrategies1998
+  author:
+    - family: Gumperz
+      given: John Joseph
+  citation-key: gumperzDiscourseStrategies1998
+  edition: Reprinted
+  event-place: Cambridge [u.a.]
+  ISBN: 978-0-521-28896-5
+  issued:
+    - year: 1998
+  number-of-pages: XII, 225 S.
+  publisher: Univ. Press
+  publisher-place: Cambridge [u.a.]
+  title: Discourse strategies
+  type: book
 
 - id: gunthnerInterculturalCommunicationRelevance2008b
   abstract: |-
@@ -893,6 +1331,26 @@ references:
     repertoires of communicative genres
   type: chapter
   URL: http://www.degruyter.com/document/doi/10.1515/9783110198584.2.127/html
+
+- id: hartkemeyerKunstDialogsKreative2005
+  author:
+    - family: Hartkemeyer
+      given: Johannes F.
+    - family: Hartkemeyer
+      given: Martina
+  citation-key: hartkemeyerKunstDialogsKreative2005
+  event-place: Stuttgart
+  ISBN: 978-3-608-94118-0
+  issued:
+    - year: 2005
+  number-of-pages: 467 S.
+  publisher: Klett-Cotta
+  publisher-place: Stuttgart
+  title: >-
+    Die Kunst des Dialogs - Kreative Kommunikation entdecken : Erfahrungen,
+    Anregungen, Übungen
+  title-short: Die Kunst des Dialogs - Kreative Kommunikation entdecken
+  type: book
 
 - id: hedgesMultipleReligiousBelonging2017a
   abstract: >-
@@ -1338,6 +1796,29 @@ references:
   URL: https://www.degruyter.com/document/doi/10.1515/opth-2017-0004/html
   volume: '3'
 
+- id: knappAspekteInterkulturellerKommunikationsfahigkeit1997
+  citation-key: knappAspekteInterkulturellerKommunikationsfahigkeit1997
+  collection-number: '3'
+  collection-title: Reihe interkulturelle Kommunikation
+  editor:
+    - family: Knapp
+      given: Annelie
+    - family: Liedke
+      given: Martina
+    - family: Knapp-Potthoff
+      given: Annelie
+  event-place: München
+  ISBN: 978-3-89129-662-2
+  issued:
+    - year: 1997
+  language: ger eng
+  number-of-pages: '207'
+  publisher: Iudicium-Verl
+  publisher-place: München
+  source: K10plus ISBN
+  title: Aspekte interkultureller Kommunikationsfähigkeit
+  type: book
+
 - id: kotthoffHandbookInterculturalCommunication2008a
   abstract: >-
     In today’s globalized world of international contact and multicultural
@@ -1548,6 +2029,56 @@ references:
   type: chapter
   URL: https://ebookcentral.proquest.com/lib/senc/reader.action?docID=665414&ppg=16
 
+- id: melnikClassificationTypesInterreligious2020
+  abstract: >-
+    The existing classifications of types of interreligious dialogue have
+    significant limitations and shortcomings and do not allow us to describe
+    this extremely complex, multi- faceted phenomenon in a systematic and
+    complete way. This paper represents original classification of
+    interreligious dialogue, which overcomes the disadvantages of current
+    research approaches in this area. On the basis of the «intention» criterion,
+    i.e. the motivation that encourages followers of different religions to come
+    into contact with each other, four types of interreligious dialogue are
+    distinguished: polemical, cognitive, peacemaking and partnership. These
+    types of dialogue are lined up respectively around the following questions:
+    Who is right?, Who are you?, How can we live together peacefully? and What
+    can we do to improve the world?. In each of the four types of interreligious
+    dialogue using the criteria goal (i.e. tasks headed towards by the
+    participants in the dialogue); principles i.e. the starting points, which
+    determine the interaction), and form (i.e. participants in the dialogue)
+    various sorts of them are identified and described. For example, the
+    following sorts of cognitive dialogue are considered: theological,
+    spiritual, human (Buberian), truth-seeking dialogue, theology of religions,
+    theology of interreligious dialogue, comparative theology. According to the
+    author, the presented classification allows for the first time to describe
+    different types of interreligious dialogue in a complex, systematic and
+    interrelated way.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  author:
+    - family: Melnik
+      given: S.V.
+  citation-key: melnikClassificationTypesInterreligious2020
+  container-title: Communicology
+  container-title-short: Kommunikologiâ
+  DOI: 10.21453/2311-3065-2020-8-2-25-51
+  ISSN: 2311-3332, 2311-3065
+  issue: '2'
+  issued:
+    - year: 2020
+      month: 6
+      day: 30
+  language: ru
+  license: https://www.elibrary.ru/title_about_new.asp?id=48967
+  page: 25-51
+  source: DOI.org (Crossref)
+  title: Classification of Types of Interreligious Dialogue
+  type: article-journal
+  URL: https://www.elibrary.ru/item.asp?id=43767473
+  volume: '8'
+
 - id: merkensTeilnehmendeBeobachtungGrundlagen2007a
   author:
     - family: Merkens
@@ -1756,6 +2287,30 @@ references:
   title-short: Why Christians convert to Islam
   type: article-journal
   volume: '9'
+
+- id: nahon-serfatyNewMediaCommunication01
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  author:
+    - family: Nahon-Serfaty
+      given: Isaac
+    - family: Ahmed
+      given: Rukhsana
+  citation-key: nahon-serfatyNewMediaCommunication01
+  ISBN: 978-1-4666-5035-0
+  issued:
+    - year: 1
+      month: 1
+      day: 1
+  language: English
+  license: Access limited to members
+  publisher: IGI Global
+  source: www.igi-global.com
+  title: New Media and Communication Across Religions and Cultures
+  type: book
+  URL: https://www.igi-global.com/gateway/book/84271
 
 - id: nesbittIntroduction2016a
   abstract: >-
@@ -2185,6 +2740,36 @@ references:
   type: book
   URL: https://doi.org/10.1093/oxfordhb/9780195338522.001.0001
 
+- id: rathjeInterkulturelleKompetenzZustand2006
+  abstract: >-
+    Der Artikel beschreibt den Forschungsstand zum Konzept Interkulturelle
+    Kompetenz anhand der Darstellung und Bewertung des Spektrums
+    unterschiedlicher Definitionsansätze in der deutschsprachigen Debatte.
+    Hierzu wird exemplarisch die Diskussion um einen Überblicksartikel zum Thema
+    interkulturelle Kompetenz des Psychologen Alexander Thomas untersucht, der
+    in mehr als dreißig Stellungnahmen von Wissenschaftlerinnen und
+    Wissenschaftlern aus unterschiedlichen Disziplinen kommentiert wurde. Auf
+    Basis dieser Zustandsanalyse werden Anforderungen an ein zeitgemäßes
+    Verständnis interkultureller Kompetenz abgeleitet und Vorschläge für eine
+    mögliche Weiterentwicklung des Konzepts auf der Grundlage eines
+    kohäsionsorientierten Kulturverständnisses entwickelt.
+  author:
+    - family: Rathje
+      given: Stefanie
+  citation-key: rathjeInterkulturelleKompetenzZustand2006
+  container-title: Zeitschrift für Interkulturellen Fremdsprachenunterricht
+  issue: '3'
+  issued:
+    - year: 2006
+  language: de
+  page: 1-21
+  source: Zotero
+  title: Interkulturelle Kompetenz—Zustand und Zukunft eines umstrittenen Konzepts
+  type: article-journal
+  URL: >-
+    http://stefanie-rathje.de/wp-content/uploads/2014/08/Rathje_Interkulturelle-Kompetenz_2006.pdf
+  volume: '11'
+
 - id: rebillardChretiensAntiquiteTardive2014b
   author:
     - family: Rebillard
@@ -2303,6 +2888,34 @@ references:
   type: chapter
   URL: >-
     https://doi-org.proxy.ub.uni-frankfurt.de/10.1093/oxfordhb/9780195338522.013.031
+
+- id: robertsInterculturalCommunicationHealthcare2008
+  abstract: |-
+    12. Intercultural communication in healthcare
+          settings was published in Handbook of Intercultural Communication on page 243.
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  author:
+    - family: Roberts
+      given: Celia
+  citation-key: robertsInterculturalCommunicationHealthcare2008
+  container-title: Intercultural communication in healthcare
+  DOI: 10.1515/9783110198584.3.243
+  ISBN: 978-3-11-019858-4
+  issued:
+    - year: 2008
+      month: 9
+      day: 25
+  language: en
+  page: 243-262
+  publisher: De Gruyter Mouton
+  source: www-degruyter-com.proxy.ub.uni-frankfurt.de
+  title: Intercultural communication in healthcare settings
+  type: chapter
+  URL: >-
+    https://www-degruyter-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110198584.3.243/html
 
 - id: rudertWhenWhyWe2023
   abstract: >-
@@ -2460,6 +3073,25 @@ references:
   title-short: Religiöse Vielfalt in einer wachsenden Stadt
   type: article-journal
   volume: '74'
+
+- id: scollonInterculturalCommunicationDiscourse2001
+  author:
+    - family: Scollon
+      given: Ronald
+    - family: Scollon
+      given: Suzanne B. K.
+  citation-key: scollonInterculturalCommunicationDiscourse2001
+  edition: 2. ed.
+  event-place: Malden, Mass. [u.a.]
+  ISBN: 978-0-631-22417-4
+  issued:
+    - year: 2001
+  number-of-pages: XIV, 316 S.
+  publisher: Blackwell
+  publisher-place: Malden, Mass. [u.a.]
+  title: 'Intercultural communication : a discourse approach'
+  title-short: Intercultural communication
+  type: book
 
 - id: sharmaHinduismConversion2014b
   accessed:
@@ -2763,6 +3395,34 @@ references:
   title: 'Radikalisierung von Inviduen : ein Überblick über mögliche Erklärungsansätze'
   title-short: Radikalisierung von Inviduen
   type: webpage
+
+- id: straubHandbuchInterkulturelleKommunikation2007
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  citation-key: straubHandbuchInterkulturelleKommunikation2007
+  DOI: 10.1007/978-3-476-05019-9
+  editor:
+    - family: Straub
+      given: Jürgen
+    - family: Weidemann
+      given: Arne
+    - family: Weidemann
+      given: Doris
+  event-place: Stuttgart
+  ISBN: 978-3-476-02189-2 978-3-476-05019-9
+  issued:
+    - year: 2007
+  language: de
+  license: http://www.springer.com/tdm
+  publisher: J.B. Metzler
+  publisher-place: Stuttgart
+  source: DOI.org (Crossref)
+  title: Handbuch interkulturelle Kommunikation und Kompetenz
+  type: book
+  URL: >-
+    https://link-springer-com.proxy.ub.uni-frankfurt.de/book/10.1007/978-3-476-05019-9
 
 - id: streibDeconversion2014b
   accessed:
@@ -3138,6 +3798,34 @@ references:
   type: article-journal
   URL: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/3712444
   volume: '67'
+
+- id: zegaracCognitivePragmaticPerspective2007
+  accessed:
+    - year: 2024
+      month: 6
+      day: 7
+  author:
+    - family: Žegarac
+      given: Vladimir
+  citation-key: zegaracCognitivePragmaticPerspective2007
+  container-title: Handbook of Intercultural Communication
+  DOI: 10.1515/9783110198584.1.31
+  editor:
+    - family: Kotthoff
+      given: Helga
+    - family: Spencer-Oatey
+      given: Helen
+  ISBN: 978-3-11-018471-6
+  issued:
+    - year: 2007
+      month: 9
+      day: 17
+  page: 31-54
+  publisher: Mouton de Gruyter
+  source: DOI.org (Crossref)
+  title: 3. A cognitive pragmatic perspective on communication and culture
+  type: chapter
+  URL: https://www.degruyter.com/document/doi/10.1515/9783110198584.1.31/html
 
 - id: zuckermanOxfordHandbookSecularism2017a
   call-number: BL2747.8 .O94 2017
