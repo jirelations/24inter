@@ -1796,6 +1796,77 @@ references:
   URL: https://www.degruyter.com/document/doi/10.1515/opth-2017-0004/html
   volume: '3'
 
+- id: kellerChapter12Deconversion2021
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  author:
+    - family: Keller
+      given: Barbara
+    - family: Bullik
+      given: Ramona
+    - family: Streib
+      given: Heinz
+    - family: Steppacher
+      given: Anika
+    - family: Hood
+      given: Ralph W.
+  citation-key: kellerChapter12Deconversion2021
+  collection-number: Volume 33
+  collection-title: Research in Contemporary Religion
+  container-title: Deconversion Revisited
+  DOI: 10.13109/9783666568688.287
+  ISBN: 978-3-525-56868-2
+  issued:
+    - year: 2021
+      month: 12
+      day: 6
+  page: 287-300
+  publisher: Vandenhoeck & Ruprecht
+  source: vr-elibrary.de (Atypon)
+  title: >-
+    Chapter 12: Deconversion Typologies Revisited: Biographical Trajectories Ten
+    Years Later
+  title-short: Chapter 12
+  type: chapter
+  URL: https://www.vr-elibrary.de/doi/full/10.13109/9783666568688.287
+  volume: Volume 33
+
+- id: kellerChapterSlowlyGet2021
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  author:
+    - family: Keller
+      given: Barbara
+    - family: Bullik
+      given: Ramona
+    - family: Silver
+      given: Christopher F.
+  citation-key: kellerChapterSlowlyGet2021
+  collection-number: Volume 33
+  collection-title: Research in Contemporary Religion
+  container-title: Deconversion Revisited
+  DOI: 10.13109/9783666568688.109
+  ISBN: 978-3-525-56868-2
+  issued:
+    - year: 2021
+      month: 12
+      day: 6
+  page: 109-138
+  publisher: Vandenhoeck & Ruprecht
+  source: vr-elibrary.de (Atypon)
+  title: >-
+    Chapter 5: ?But slowly I get the feeling that I do not fit into any
+    category.? Are Multiple Deconversions in Young Adulthood Associated with
+    Mental Health Problems? The Cases of Mia and Paris
+  title-short: Chapter 5
+  type: chapter
+  URL: https://www.vr-elibrary.de/doi/full/10.13109/9783666568688.109
+  volume: Volume 33
+
 - id: knappAspekteInterkulturellerKommunikationsfahigkeit1997
   citation-key: knappAspekteInterkulturellerKommunikationsfahigkeit1997
   collection-number: '3'
@@ -3519,6 +3590,39 @@ references:
   title-short: Radikalisierung von Inviduen
   type: webpage
 
+- id: steppacherChapterRecentResearch2021
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  author:
+    - family: Steppacher
+      given: Anika
+    - family: Streib
+      given: Heinz
+    - family: Bullik
+      given: Ramona
+    - family: Keller
+      given: Barbara
+  citation-key: steppacherChapterRecentResearch2021
+  collection-number: Volume 33
+  collection-title: Research in Contemporary Religion
+  container-title: Deconversion Revisited
+  DOI: 10.13109/9783666568688.33
+  ISBN: 978-3-525-56868-2
+  issued:
+    - year: 2021
+      month: 12
+      day: 6
+  page: 33-58
+  publisher: Vandenhoeck & Ruprecht
+  source: vr-elibrary.de (Atypon)
+  title: 'Chapter 2: Recent Research on Deconversion'
+  title-short: Chapter 2
+  type: chapter
+  URL: https://www.vr-elibrary.de/doi/full/10.13109/9783666568688.33
+  volume: Volume 33
+
 - id: straubHandbuchInterkulturelleKommunikation2007
   accessed:
     - year: 2024
@@ -3547,6 +3651,37 @@ references:
   URL: >-
     https://link-springer-com.proxy.ub.uni-frankfurt.de/book/10.1007/978-3-476-05019-9
 
+- id: streibChapterQuantitativePerspectives2021
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  author:
+    - family: Streib
+      given: Heinz
+    - family: Keller
+      given: Barbara
+  citation-key: streibChapterQuantitativePerspectives2021
+  collection-number: Volume 33
+  collection-title: Research in Contemporary Religion
+  container-title: Deconversion Revisited
+  DOI: 10.13109/9783666568688.59
+  ISBN: 978-3-525-56868-2
+  issued:
+    - year: 2021
+      month: 12
+      day: 6
+  page: 59-82
+  publisher: Vandenhoeck & Ruprecht
+  source: vr-elibrary.de (Atypon)
+  title: >-
+    Chapter 3: Quantitative Perspectives on Deconverts and Traditionalists
+    Revisited
+  title-short: Chapter 3
+  type: chapter
+  URL: https://www.vr-elibrary.de/doi/full/10.13109/9783666568688.59
+  volume: Volume 33
+
 - id: streibDeconversion2014b
   accessed:
     - year: 2022
@@ -3574,6 +3709,123 @@ references:
   type: chapter
   URL: >-
     http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780195338522.001.0001/oxfordhb-9780195338522-e-012
+
+- id: streibDeconversionQualitativeQuantitative2009
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  author:
+    - family: Streib
+      given: Heinz
+    - family: Hood
+      given: Ralph W.
+    - family: Keller
+      given: Barbara
+    - family: Csöff
+      given: Rosina-Martha
+    - family: Silver
+      given: Christopher F.
+  citation-key: streibDeconversionQualitativeQuantitative2009
+  DOI: 10.13109/9783666604393
+  edition: '1'
+  event-place: Göttingen
+  ISBN: 978-3-525-60439-7 978-3-666-60439-3
+  issued:
+    - year: 2009
+      month: 1
+      day: 21
+  language: en
+  publisher: Vandenhoeck & Ruprecht
+  publisher-place: Göttingen
+  source: DOI.org (Crossref)
+  title: >-
+    Deconversion: Qualitative and Quantitative Results from Cross-Cultural
+    Research in Germany and the United States of America
+  title-short: Deconversion
+  type: book
+  URL: https://www.vr-elibrary.de/doi/book/10.13109/9783666604393
+
+- id: streibDeconversionRevisitedBiographical2021
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  author:
+    - family: Streib
+      given: Heinz
+    - family: Keller
+      given: Barbara
+    - family: Bullik
+      given: Ramona
+    - family: Steppacher
+      given: Anika
+    - family: Silver
+      given: Christopher F.
+    - family: Durham
+      given: Matthew
+    - family: Barker
+      given: Sally B.
+    - family: Hood
+      given: Ralph W.
+  citation-key: streibDeconversionRevisitedBiographical2021
+  DOI: 10.13109/9783666568688
+  edition: '1'
+  event-place: Göttingen
+  ISBN: 978-3-525-56868-2 978-3-666-56868-8
+  issued:
+    - year: 2021
+      month: 12
+      day: 6
+  language: en
+  publisher: Vandenhoeck & Ruprecht
+  publisher-place: Göttingen
+  source: DOI.org (Crossref)
+  title: >-
+    Deconversion Revisited: Biographical Studies and Psycho-metric Analyses Ten
+    Years Later
+  title-short: Deconversion Revisited
+  type: book
+  URL: https://www.vr-elibrary.de/doi/book/10.13109/9783666568688
+
+- id: streibWhatDeconversionProfiling2009
+  accessed:
+    - year: 2024
+      month: 6
+      day: 17
+  author:
+    - family: Streib
+      given: Heinz
+    - family: Hood
+      given: Ralph W.
+    - family: Keller
+      given: Barbara
+    - family: Csöff
+      given: Rosina-Martha
+    - family: Silver
+      given: Christopher F.
+  citation-key: streibWhatDeconversionProfiling2009
+  collection-number: '5'
+  collection-title: Research in Contemporary Religion
+  container-title: >-
+    Deconversion: Qualitative and Quantitative Results from Cross-Cultural
+    Research in Germany and the United States of America
+  DOI: 10.13109/9783666604393.17
+  edition: '1'
+  event-place: Göttingen
+  ISBN: 978-3-525-60439-7 978-3-666-60439-3
+  issued:
+    - year: 2009
+      month: 1
+      day: 21
+  language: en
+  page: 17-32
+  publisher: Vandenhoeck & Ruprecht
+  publisher-place: Göttingen
+  source: DOI.org (Crossref)
+  title: What is Deconversion? – Profiling the Concept
+  type: chapter
+  URL: https://www.vr-elibrary.de/doi/reader/10.13109/9783666604393.17
 
 - id: stroumsaAcculturationConversionIslamic2016b
   abstract: >-
