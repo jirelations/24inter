@@ -1184,6 +1184,45 @@ references:
   title: The handbook of intergroup communication
   type: book
 
+- id: grauKonzeptGruppenbezogenenMenschenfeindlichkeit2017
+  abstract: >-
+    Der Begriff Gruppenbezogene Menschenfeindlichkeit (GMF) wurde im Rahmen der
+    gleichnamigen, zehnjährigen Langzeitstudie unter der Leitung von Wilhelm
+    Heitmeyer (für einen Überblick siehe Heitmeyer 2002-2012) eingeführt.
+    Ausgangspunkt war die Einschätzung, dass die Würde des Menschen in der
+    bundesdeutschen Gesellschaft antastbar ist (Heitmeyer 2002: 3). Die
+    Humanität oder Inhumanität einer Gesellschaft könne daran ermessen werden,
+    ob oder in welchem Ausmaß bestimmten Gruppen in der Gesellschaft mit einer
+    feindseligen Haltung gegenüber getreten werde, so eine der grundlegenden
+    Vorüberlegungen (Heitmeyer 2002: 2).
+  accessed:
+    - year: 2024
+      month: 7
+      day: 1
+  author:
+    - family: Grau
+      given: Andreas
+  citation-key: grauKonzeptGruppenbezogenenMenschenfeindlichkeit2017
+  container-title: Ungleichwertigkeitsideologien in der Einwanderungsgesellschaft
+  DOI: 10.1007/978-3-658-14245-2_2
+  editor:
+    - family: Bozay
+      given: Kemal
+    - family: Borstel
+      given: Dierk
+  event-place: Wiesbaden
+  ISBN: 978-3-658-14245-2
+  issued:
+    - year: 2017
+  language: de
+  page: 7-23
+  publisher: Springer Fachmedien
+  publisher-place: Wiesbaden
+  source: Springer Link
+  title: Zum Konzept der Gruppenbezogenen Menschenfeindlichkeit im lokalen Raum
+  type: chapter
+  URL: https://doi.org/10.1007/978-3-658-14245-2_2
+
 - id: grungInterreligiousDialogueSqueeze2017b
   author:
     - family: Grung
@@ -2742,6 +2781,39 @@ references:
   type: report
   URL: >-
     https://www.pewresearch.org/religion/2022/12/21/key-findings-from-the-global-religious-futures-project/
+
+- id: pollackEditorialReligiousFundamentalism2023
+  accessed:
+    - year: 2024
+      month: 7
+      day: 1
+  author:
+    - family: Pollack
+      given: Detlef
+    - family: Demmrich
+      given: Sarah
+    - family: Müller
+      given: Olaf
+  citation-key: pollackEditorialReligiousFundamentalism2023
+  container-title: Zeitschrift für Religion, Gesellschaft und Politik
+  container-title-short: Z Religion Ges Polit
+  DOI: 10.1007/s41682-023-00159-y
+  ISSN: 2510-1226
+  issue: '1'
+  issued:
+    - year: 2023
+      month: 5
+      day: 1
+  language: en
+  page: 1-11
+  source: Springer Link
+  title: >-
+    Editorial—Religious fundamentalism: new theoretical and empirical challenges
+    across religions and cultures
+  title-short: Editorial—Religious fundamentalism
+  type: article-journal
+  URL: https://doi.org/10.1007/s41682-023-00159-y
+  volume: '7'
 
 - id: pollackIntegrationUndReligion2016b
   accessed:
