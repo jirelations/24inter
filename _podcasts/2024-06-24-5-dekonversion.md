@@ -1,7 +1,7 @@
 ---
 layout: podcast
-title: "Folge 6: Dekonversion"
-episode: 6
+title: "Folge 5: Dekonversion"
+episode: 5
 categories: podcast
 short_description: "Pia Lindenblatt, Jennifer Weidner und Britta Herres sprechen mit zwei Leuten über deren Ausgang vom christlichen Glauben."
 description: "Pia Lindenblatt, Jennifer Weidner, Britta Herres sprechen mit zwei Leuten über deren Ausgang vom christlichen Glauben. (Dies ist eine interne Datei. Sie müssen in OLAT eingeloggt sein, um sie hören zu können.)"
