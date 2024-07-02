@@ -3,8 +3,8 @@ layout: podcast
 title: "Folge 6: Radikalisierung"
 episode: 6
 categories: podcast
-short_description: "Marie Eichhorn und Brooklyn Jane Matta sprechen mit Jana Aslan-Moor über den Extremismus und die Präventionsarbeit."
-description: "Marie Eichhorn und Brooklyn Jane Matta sprechen mit Jana Aslan-Moor über die Arbeit von Mosaik-Deutschland e.V. Die Definition von Extremismus und seine gemeinsame Merkmale sowie Differenzierungen in unterschiedlichen Gruppen werden behandelt. Thematisiert wird auch welche Erkenntnisse in der praktischen Präventionsarbeit angestrebt werden. (Dies ist eine interne Datei. Sie müssen in OLAT eingeloggt sein, um sie hören zu können.)"
+short_description: "Marie Eichhorn und Brooklyn Jane Matta sprechen mit Jana Aslan-Moor (Mosaik Deutschland e.V.) über den Extremismus und die Präventionsarbeit."
+description: "Marie Eichhorn und Brooklyn Jane Matta sprechen mit Jana Aslan-Moor über die Arbeit von Mosaik Deutschland e.V. Die Definition von Extremismus und seine gemeinsame Merkmale sowie Differenzierungen in unterschiedlichen Gruppen werden behandelt. Thematisiert wird auch welche Erkenntnisse in der praktischen Präventionsarbeit angestrebt werden. (Dies ist eine interne Datei. Sie müssen in OLAT eingeloggt sein, um sie hören zu können.)"
 author: 
   - Marie Eichhorn
   - Brooklyn Jane Matta
