@@ -3267,6 +3267,37 @@ references:
   type: article-journal
   volume: '74'
 
+- id: schulzeMartinRiesebrodtFundamentalismus1993a
+  abstract: >-
+    //static.cambridge.org/content/id/urn%3Acambridge.org%3Aid%3Aarticle%3AS0020743800058098/resource/name/firstPage-S0020743800058098a.jpg
+  accessed:
+    - year: 2024
+      month: 7
+      day: 2
+  author:
+    - family: Schulze
+      given: Reinhard
+  citation-key: schulzeMartinRiesebrodtFundamentalismus1993a
+  container-title: International Journal of Middle East Studies
+  DOI: 10.1017/S0020743800058098
+  ISSN: 1471-6380, 0020-7438
+  issue: '1'
+  issued:
+    - year: 1993
+      month: 2
+  language: en
+  page: 116-117
+  source: Cambridge University Press
+  title: >-
+    Martin Riesebrodt, Fundamentalismus als patriarchalische Bewegung:
+    Amerikanische Protestanten (1910–28) und iranische Schiiten (1961–79) im
+    Vergleich (Tubingen: J. C. B. Mohr, 1990). Pp. 300.
+  title-short: Martin Riesebrodt, Fundamentalismus als patriarchalische Bewegung
+  type: article-journal
+  URL: >-
+    https://www.cambridge.org/core/journals/international-journal-of-middle-east-studies/article/martin-riesebrodt-fundamentalismus-als-patriarchalische-bewegung-amerikanische-protestanten-191028-und-iranische-schiiten-196179-im-vergleich-tubingen-jcb-mohr-1990-pp-300/3CCB418ACF0659E5C826A35A4A51BB51
+  volume: '25'
+
 - id: scollonInterculturalCommunicationDiscourse2001
   author:
     - family: Scollon
