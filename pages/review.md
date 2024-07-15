@@ -97,10 +97,32 @@ ___
 - Was ist dabei problematisch, Konversion als Begriff in der Forschung von unterschiedlichen Religionen zu betrachten?
 - Welche Quellen gibt es für Konversionen in der Geschichte, und was ist bei jedem Quellenart problematisch?
 - Fallbeispiel: Welche Rolle spielt Geschlecht in diesen Konversionsnarrativen? (Lektüre: Simonsohn)
+- Freiwillig/nach Wahl vom Kursbesuch Frau Ahmadzai: 
+  - Auf welche Faktoren der Forschungsumgebung musste die Forscherin aufpassen, um eine Atmosphäre für die "Stegreiferzählung" zu schaffen?
+  - Welche Ziele oder Motivationen der interviewten Personen hat die Forscherin versucht zu berücksichtigen?
  
 ### 9. Aufrechterhaltung & 10. Dekonversion
-**🧭 Lernziel:** Die Faktoren vergleichen, die für den Verbleib in einer Religion und den Austritt aus ihr sprechen.
+**🧭 Lernziel:** ~~Die Faktoren vergleichen, die für den Verbleib in einer Religion und den Austritt aus ihr sprechen.~~ 1. Ritualen und deren Bedeutung beschreiben, die  den Verbleib in einer Religion erzielen. 2. Das Dekonversionsprozess nach seinen möglichen Endwirkungen beschreiben.
+- Aufrechterhaltung (von der Podcast-Diskussion): Themen nennen vom Interview, die  (1) Rituale/Praxen, (2) soziale/gemeinschaftliche Faktoren und (3) glaubensinhaltliche Fragen betreffen.
+- Aufrechterhaltung (Lektüre Shoham)
+  - BA-Studierende (S. 113–122)
+    - Wie wird eine *Bat Mizvah* heute gefeiert? Inwieweit ist diese ein        Initiationsritus nach dem Autor?
+    - Wie ist die Bedeutung davon unterschiedlich in Israel und Nordamerika?
+  - MA-Studierende (+ S. 100–113)
+    - Was meint der Autor mit "semiotic shifts"? 
+    - Wie hat die Bedeutung von der *Bat Mizvah* sich historisch entwickelt?
+- Dekonversion (Lektüre Streib et al.)
+  - Was sind die verschiedenen *exits* (Austritte) von religiösen Organisationen?
+  - Beispiele (fiktive oder echte) für 2-3 Arten von *exits* geben
+  - Ist Dekonversion auch eine Art von Konversion?
 
- 
 ### 11. Radikalisierung
 **🧭 Lernziel:** Radikalisierung erkennen und ihre Wurzeln in der Kommunikation berücksichtigen können.
+
+- Definitionen von Extremismus, Fundamentalismus und Radikalisierung
+- Wie überlappen sich diese drei Begriffe?
+- Ihrer Meinung nach, was sind Merkmale von diesen? Wie würden Sie diese Meinung begründen?
+- Radikalisierung (Lektüre Srowig et al.)
+  - Können unterschiedliche (darunter auch oppositionell eingestellte) Bewegungen unter dem Stichwort "Radikalisierung" geforscht werden? Warum oder warum nicht?
+  - Warum ist es in der Radikalisierungsforschung schwierig, Ergebnisse von gesellschaftlichen Studien auf Individuen anzuwenden und andersrum?
+  - Welche Lebensfunktionen kann die Radikalisierung für eine radikalisierte Person haben?
