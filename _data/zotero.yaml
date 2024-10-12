@@ -534,6 +534,48 @@ references:
   title-short: The history of the 'Slave of Christ'
   type: book
 
+- id: caiizares-esguerraErikSeemanJews2007
+  abstract: >-
+    When writing about the early modern Atlantic, historians commonly approach
+    their
+
+    topic from the perspective of the modern nation-state. They write about the
+    “Dutch
+
+    Atlantic,” the “French Atlantic,” the “Spanish Atlantic,” and so on through
+    the great
+
+    (and not-so-great) European imperial powers of the early modern period.1
+    There is no
+
+    doubt that this can be a useful perspective. These authors have taught us a
+    great deal
+
+    about imperial rivalries, about the commonalities between such disparate
+    colonies as
+
+    Quebec and Martinique, and about the importance of colonial exports in the
+    economy
+
+    of the metropole.
+  citation-key: caiizares-esguerraErikSeemanJews2007
+  container-title: The Atlantic in Global History
+  editor:
+    - family: CaÏizares-Esguerra
+      given: Jorge
+    - family: Seeman
+      given: Erik R.
+  ISBN: 978-1-315-50809-2
+  issued:
+    - year: 2007
+  number-of-pages: '22'
+  publisher: Routledge
+  title: >-
+    Erik R. Seeman. Jews in the Early Modern Atlantic: Crossing Boundaries,
+    Keeping Faith
+  title-short: Erik R. Seeman. Jews in the Early Modern Atlantic
+  type: chapter
+
 - id: CenterStudyConversionb
   accessed:
     - year: 2022
@@ -1030,6 +1072,61 @@ references:
     inspired by Pauline Allen
   title-short: Christians shaping identity from the Roman Empire to Byzantium
   type: book
+
+- id: enstedtHandbookLeavingReligion2020
+  abstract: >-
+    The Handbook of Leaving Religion introduces a neglected field of research
+    with the aim to outline previous and contemporary research, and suggest how
+    the topic of leaving religion should be studied in the future.
+  accessed:
+    - year: 2024
+      month: 8
+      day: 30
+  citation-key: enstedtHandbookLeavingReligion2020
+  collection-editor:
+    - family: Enstedt
+      given: Daniel
+    - family: Larsson
+      given: Göran
+    - family: Mantsinen
+      given: Teemu T.
+  ISBN: 978-90-04-33092-4
+  issued:
+    - year: 2020
+  publisher: Brill
+  source: JSTOR
+  title: Handbook of Leaving Religion
+  type: book
+  URL: https://www.jstor.org/stable/10.1163/j.ctv2gjwshc
+
+- id: esserIntegrationEthnischeVielfalt2010a
+  accessed:
+    - year: 2024
+      month: 9
+      day: 10
+  author:
+    - family: Esser
+      given: Hartmut
+  citation-key: esserIntegrationEthnischeVielfalt2010a
+  container-title: Die kulturelle Integration Europas
+  DOI: 10.1007/978-3-531-92512-7_6
+  editor:
+    - family: Wienand
+      given: Johannes
+    - family: Wienand
+      given: Christiane
+  event-place: Wiesbaden
+  ISBN: 978-3-531-16375-8 978-3-531-92512-7
+  issued:
+    - year: 2010
+  language: de
+  page: 143-169
+  publisher: VS Verlag für Sozialwissenschaften
+  publisher-place: Wiesbaden
+  source: DOI.org (Crossref)
+  title: Integration, ethnische Vielfalt und moderne Gesellschaft
+  type: chapter
+  URL: http://link.springer.com/10.1007/978-3-531-92512-7_6
 
 - id: fletcherConstructingReligiousIdentityb
   author:
@@ -3692,6 +3789,45 @@ references:
   title: 'Radikalisierung von Inviduen : ein Überblick über mögliche Erklärungsansätze'
   title-short: Radikalisierung von Inviduen
   type: webpage
+
+- id: steneLeavingIslamChristianity2020
+  abstract: >-
+    This chapter presents a case study from Norway, and explores why and how
+    some asylum seekers leave one religion for another: more specifically Islam
+    for Christianity. The context of their conversion is migration and the
+    difficult situation of asylum seekers. The chapter also highlights
+    perspectives and methodologies especially relevant to this field of study. 
+    There are no available official statistics on the number of asylum seeker
+    converts in Norway. However, the Norwegian Immigration Appeals Board (UNE)
+    estimates that between 2001 and 2015 approximately 950 individuals converted
+    from Islam to Christianity – listing fear of religious persecution as
+    support for their
+  accessed:
+    - year: 2024
+      month: 8
+      day: 30
+  author:
+    - family: Stene
+      given: Nora
+  citation-key: steneLeavingIslamChristianity2020
+  container-title: Handbook of Leaving Religion
+  editor:
+    - family: Enstedt
+      given: Daniel
+    - family: Larsson
+      given: Göran
+    - family: Mantsinen
+      given: Teemu T.
+  ISBN: 978-90-04-33092-4
+  issued:
+    - year: 2020
+  page: 210-219
+  publisher: Brill
+  source: JSTOR
+  title: 'Leaving Islam for Christianity: Asylum Seeker Converts'
+  title-short: Leaving Islam for Christianity
+  type: chapter
+  URL: https://www.jstor.org/stable/10.1163/j.ctv2gjwshc.20
 
 - id: steppacherChapterRecentResearch2021
   accessed:
